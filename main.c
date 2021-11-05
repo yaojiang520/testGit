@@ -3,6 +3,6 @@
 int main()
 {
     printf("XiaoMing\n");
-    printf("Hello, World!\n");
+    printf("hyl,yyds\n");
     return 0;
 }
